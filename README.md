@@ -1,2 +1,2 @@
-# DigitalAssets
-LedgerZ/DigitalAssets
+# digitalassets
+ledgerz/digitalassets
